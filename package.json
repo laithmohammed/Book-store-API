@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/laithmohammedsaker/Book-store-API/issues"
   },
-  "homepage": "https://github.com/laithmohammedsaker/Book-store-API#readme"
+  "homepage": "https://github.com/laithmohammedsaker/Book-store-API#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "joi": "^14.3.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.0",
+    "path": "^0.12.7"
+  }
 }
